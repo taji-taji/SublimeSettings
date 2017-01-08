@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Material Theme"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Snippets",
+		"EasyDiff",
+		"G-code Syntax Highlighting",
+		"Git",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Package Control",
+		"php-snippets",
+		"PhpDoc",
+		"PHPUnit",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"SublimeLinter-pylint",
+		"Terminal",
+		"Theme - Cobalt2",
+		"Theme - itg.flat",
+		"Todo",
+		"TodoReview",
+		"TrailingSpaces",
+		"Whitespace"
+	]
+}

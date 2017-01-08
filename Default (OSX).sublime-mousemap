@@ -1,0 +1,19 @@
+[
+    {
+        "button": "button1", 
+        "count": 1, 
+        "modifiers": ["super"],
+        "press_command": "drag_select",
+        "command": "goto_definition"
+    },
+    {
+    	"keys": ["alt+shift+up"],
+    	"command": "select_lines",
+    	"args": {"forward": false}
+    },
+    {
+    	"keys": ["alt+shift+down"],
+    	"command": "select_lines",
+    	"args": {"forward": true}
+    },
+]
