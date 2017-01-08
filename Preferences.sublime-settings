@@ -3,6 +3,8 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"CodeIgniter Utilities",
+		"DocBlockr",
 		"Vintage"
 	],
 	"material_theme_big_fileicons": true,
