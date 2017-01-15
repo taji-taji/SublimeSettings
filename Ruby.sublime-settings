@@ -1,0 +1,15 @@
+{
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "use_tab_stops": true,
+
+  "extensions": [
+    "Gemfile",
+    "Gemfile.lock",
+    "Vagrantfile",
+    "Vagrantfile.ono_base",
+    "Vagrantfile.lead_playback",
+    "Vagrantfile.all",
+    "Thorfile"
+  ]
+}
