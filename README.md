@@ -1,5 +1,8 @@
 # Initial Usage
 
+Instrall Package Control.
+https://packagecontrol.io/installation
+
 ```
 $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 $ git clone git@github.com:taji-taji/SublimeSettings.git User
